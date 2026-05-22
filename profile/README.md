@@ -6,4 +6,4 @@ OpenTelemetry와 LGMT 솔루션을 활용하여 데이터 수집부터 시각화
 
 - OpenTelemetry를 활용한 다차원 데이터 수집 파이프라인 설계 및 구축
   
-- LGMT(Loki, Grafana, Mimir, Tempo) 솔루션을 연동한 엔드투엔드 데이터 시각화 및 관측 가능성(Observability) 확보
+- LGMT(Loki, Grafana, Prometheus, Tempo) 솔루션을 연동한 엔드투엔드 데이터 시각화 및 관측 가능성(Observability) 확보
